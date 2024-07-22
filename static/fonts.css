@@ -1,0 +1,84 @@
+/* static/fonts.css */
+@font-face {
+    font-family: 'NY-Medium';
+    src: url('/fonts/NY-Medium/NewYorkMedium-Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NY-Medium';
+    src: url('/fonts/NY-Medium/NewYorkMedium-Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NY-Medium';
+    src: url('/fonts/NY-Medium/NewYorkMedium-BoldItalic.otf') format('opentype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NY-Medium';
+    src: url('/fonts/NY-Medium/NewYorkMedium-Italic.otf') format('opentype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NY-Medium';
+    src: url('/fonts/NY-Medium/NewYorkMedium-Black.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NY-Medium';
+    src: url('/fonts/NY-Medium/NewYorkMedium-BlackItalic.otf') format('opentype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NY-Medium';
+    src: url('/fonts/NY-Medium/NewYorkMedium-Semibold.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NY-Medium';
+    src: url('/fonts/NY-Medium/NewYorkMedium-SemiboldItalic.otf') format('opentype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NY-Medium';
+    src: url('/fonts/NY-Medium/NewYorkMedium-Heavy.otf') format('opentype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NY-Medium';
+    src: url('/fonts/NY-Medium/NewYorkMedium-HeavyItalic.otf') format('opentype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NY-Medium';
+    src: url('/fonts/NY-Medium/NewYorkMedium-Medium.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NY-Medium';
+    src: url('/fonts/NY-Medium/NewYorkMedium-MediumItalic.otf') format('opentype');
+    font-weight: 500;
+    font-style: italic;
+}
