@@ -188,9 +188,12 @@
             <h2 class="text-white font-ny-medium text-2xl md:text-4xl">
                 Auf der Suche nach einer Unterkunft?
             </h2>
+            <span class="text-white">
+                Inklusive Frühstück
+            </span>
 
             <Button href="https://direct-book.com/properties/mughalhotel-restaurant?locale=de&items%5B0%5D%5Badults%5D=2&items%5B0%5D%5Bchildren%5D=0&items%5B0%5D%5Binfants%5D=0&currency=EUR&checkInDate=2024-07-17&checkOutDate=2024-07-18&trackPage=no&selected=0" class="bg-[#800707] text-white px-12 py-1 text-lg rounded-full hover:bg-[#120E0B]  transition-all duration-500 ease-in-out font-light">
-                Hotelzimmer buchen
+                Jetzt buchen
             </Button>
         </div>
     
