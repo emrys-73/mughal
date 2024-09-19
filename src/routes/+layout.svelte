@@ -36,12 +36,18 @@
 			</a>
 		</div>
 
-		<div class="w-3/5 h-full justify-around items-center flex flex-row z-40">
+		<div class="w-3/5 md:flex h-full justify-around items-center hidden flex-row z-40">
 			{#each menu as m}
 				<div class="flex z-40">
 					<Button href="{m.href}" class="{m.highlight ? 'bg-[#800707] px-10 py-2 rounded-full hover:bg-[#120E0B]' : 'bg-transparent hover:bg-transparent text-opacity-80 hover:text-opacity-100'} text-white text-md font-light transition-all ease-in-out duration-500">{m.name}</Button>
 				</div>
 			{/each}
+		</div>
+
+		<div class="w-full h-full justify-center items-end md:hidden flex flex-col z-40">
+			<div class="flex z-40">
+				<Button href="{menu[3].href}" class="{menu[3].highlight ? 'bg-[#800707] px-10 py-2 rounded-full hover:bg-[#120E0B]' : 'bg-transparent hover:bg-transparent text-opacity-80 hover:text-opacity-100'} text-white text-md font-light transition-all ease-in-out duration-500">{menu[3].name}</Button>
+			</div>
 		</div>
 	</div>
 
