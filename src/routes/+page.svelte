@@ -54,9 +54,11 @@
         </div>
 
         <div class="w-full justify-center items-center flex md:flex-row flex-col gap-4 md:gap-0 min-h-[25vh]">
-            <Button class="text-white px-12 py-1 text-lg rounded-full font-light bg-transparent hover:bg-transparent text-opacity-80 hover:text-opacity-100 transition-all duration-500 ease-in-out">
-                Speisekarte herunterladen
-            </Button>
+            <a href="/MughalMenu.pdf" target="_blank" rel="noopener noreferrer">
+                <Button class="text-white px-12 py-1 text-lg rounded-full font-light bg-transparent hover:bg-transparent text-opacity-80 hover:text-opacity-100 transition-all duration-500 ease-in-out">
+                    Speisekarte ansehen
+                </Button>
+            </a>
             <Button href="/#gallerie" class="bg-[#800707] text-white px-12 py-1 text-lg rounded-full hover:bg-[#120E0B]  transition-all duration-500 ease-in-out font-light">
                 Galerie 
             </Button>
