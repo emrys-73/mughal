@@ -5,17 +5,17 @@
         {
             name: 'Chicken Tikka Masala',
             href: '/menu',
-            image: '/food/tikka.png',
+            image: '/food/tikka.webp',
         },
         {
             name: 'Reisgericht',
             href: '/menu',
-            image: '/food/reis.png',
+            image: '/food/reis.webp',
         },
         {
             name: 'Grillpfanne',
             href: '/menu',
-            image: '/food/grill.png',
+            image: '/food/grill.webp',
         },
     ]
 </script>
@@ -67,7 +67,7 @@
 
     <!-- Break -->
     <div id="gallerie" class="w-full h-[70vh] flex flex-col relative">
-        <img src="/in.png" alt="face" class="w-full object-cover h-[70vh]">
+        <img src="/in.webp" alt="face" class="w-full object-cover h-[70vh]">
         <div class="bg-gradient-to-t from-[#0f0b09] to-transparent absolute h-[70vh] w-full top-0 flex justify-center items-end">
             <h2 class="text-white opacity-100 z-20 text-4xl hover:text-5xl transition-all duration-500 ease-in-out font-ny-medium py-20 w-full px-12 hidden">
                 <a href="https://www.google.com/maps/place/Hotel+Restaurant+Mughal+-+Indian+Specialties/@48.4935596,12.0377078,17z/data=!3m1!4b1!4m9!3m8!1s0x479e25569f7cc23f:0x28864ec669194d7e!5m2!4m1!1i2!8m2!3d48.4935596!4d12.0402827!16s%2Fg%2F11vq9mw_dl?entry=ttu" class="underline">
@@ -185,7 +185,7 @@
     <!-- 087095689648 -->
     <!-- Hotel reservation -->
     <div class="w-full h-[80vh] flex flex-row justify-center items-center relative">
-        <img src="/face.png" alt="face" class="w-full h-full object-cover opacity-100">
+        <img src="/face.webp" alt="face" class="w-full h-full object-cover opacity-100">
         <div class="w-full h-full bg-gradient-to-b from-black/30 to-black/100 absolute top-0 z-20 justify-center items-center py-32 flex flex-col gap-4">
             <h2 class="text-white font-ny-medium text-2xl md:text-4xl">
                 Auf der Suche nach einer Unterkunft?
@@ -198,6 +198,6 @@
                 Jetzt buchen
             </Button>
         </div>
-    
+
     </div>
 </div>
