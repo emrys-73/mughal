@@ -57,6 +57,15 @@
 	</div>
 
 	<slot/>
+
+	<div class="w-full flex flex-row justify-around z-50 items-center bg-black h-12">
+		<a href="/Impressum.pdf" class=" text-white opacity-80 transition-all duration-300 ease-in-out hover:opacity-100 text-sm">
+			Impressum
+		</a>
+		<a href="/Datenschutz.pdf" class=" text-white opacity-80 transition-all duration-300 ease-in-out hover:opacity-100 text-sm">
+			Datenschutz
+		</a>
+	</div>
 </div>
 
 

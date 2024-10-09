@@ -8,7 +8,7 @@
             image: '/food/tikka.webp',
         },
         {
-            name: 'Reisgericht',
+            name: 'Chicken Biryani',
             href: '/menu',
             image: '/food/reis.webp',
         },
@@ -54,13 +54,8 @@
         </div>
 
         <div class="w-full justify-center items-center flex md:flex-row flex-col gap-4 md:gap-0 min-h-[25vh]">
-            <a href="/MughalMenu.pdf" target="_blank" rel="noopener noreferrer">
-                <Button class="text-white px-12 py-1 text-lg rounded-full font-light bg-transparent hover:bg-transparent text-opacity-80 hover:text-opacity-100 transition-all duration-500 ease-in-out">
-                    Speisekarte ansehen
-                </Button>
-            </a>
-            <Button href="/#gallerie" class="bg-[#800707] text-white px-12 py-1 text-lg rounded-full hover:bg-[#120E0B]  transition-all duration-500 ease-in-out font-light">
-                Galerie 
+            <Button href="/MughalMenu.pdf" class="bg-[#800707] text-white px-12 py-1 text-lg rounded-full hover:bg-[#120E0B]  transition-all duration-500 ease-in-out font-light">
+                Speisekarte ansehen
             </Button>
         </div>
     </div>
@@ -167,10 +162,15 @@
                             </div>
                         </div>
     
-                        <div class="py-4 md:py-0">
+                        <div class="py-4 md:py-0 flex flex-col gap-4 justify-center items-center">
                             <Button href="tel:(+49)08709568964" class="bg-[#800707] text-white px-12 py-1 text-lg rounded-full hover:bg-[#120E0B]  transition-all duration-500 ease-in-out font-light">
                                 Tisch Reservieren
                             </Button>
+                            <a href="https://www.lieferando.de/speisekarte/restaurant-mughal?&adj_tracker=tn818ro&adj_campaign=17679818623&k1111=k1111&campaignname=CM_S_G_DEU_DE_%5BRES%5D_%5BENGM%5D_OD_Eching_9048295" class="text-white text-sm transition-all duration-300 ease-in-out hover:opacity-100 opacity-80">
+                                <span class="">
+                                    Lieferung und Abholung möglich
+                                </span>
+                            </a>
                         </div>
                     </div>
             </div>
@@ -198,6 +198,5 @@
                 Jetzt buchen
             </Button>
         </div>
-
     </div>
 </div>
