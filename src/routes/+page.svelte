@@ -164,11 +164,11 @@
     
                         <div class="py-4 md:py-0 flex flex-col gap-4 justify-center items-center">
                             <Button href="tel:(+49)08709568964" class="bg-[#800707] text-white px-12 py-1 text-lg rounded-full hover:bg-[#120E0B]  transition-all duration-500 ease-in-out font-light">
-                                Tisch Reservieren
+                                Direkt anrufen
                             </Button>
                             <a href="https://www.lieferando.de/speisekarte/restaurant-mughal?&adj_tracker=tn818ro&adj_campaign=17679818623&k1111=k1111&campaignname=CM_S_G_DEU_DE_%5BRES%5D_%5BENGM%5D_OD_Eching_9048295" class="text-white text-sm transition-all duration-300 ease-in-out hover:opacity-100 opacity-80">
                                 <span class="">
-                                    Lieferung und Abholung möglich
+                                    oder bei Lieferando bestellen
                                 </span>
                             </a>
                         </div>
