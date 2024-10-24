@@ -50,7 +50,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="w-full h-12 backdrop-blur-md px-4 flex flex-row fixed top-16 justify-between items-center z-30 bg-[#800707] bg-opacity-80 text-white text-center">
+	<div class="hidden w-full h-12 backdrop-blur-md px-4 flex-row fixed top-16 justify-between items-center z-30 bg-[#800707] bg-opacity-80 text-white text-center">
 		<span class="w-full text-center flex flex-row justify-center items-center">
 			Bis zum 15.10. gibt es Mango Lassi kostenlos zu deiner Bestellung.
 		</span>
