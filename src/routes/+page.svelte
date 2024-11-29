@@ -190,7 +190,7 @@
             <h2 class="text-white font-ny-medium text-2xl md:text-4xl">
                 Auf der Suche nach einer Unterkunft?
             </h2>
-            <span class="text-white">
+            <span class="text-white hidden">
                 Inklusive Frühstück
             </span>
 
