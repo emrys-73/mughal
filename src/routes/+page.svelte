@@ -163,7 +163,7 @@
                         </div>
     
                         <div class="py-4 md:py-0 flex flex-col gap-4 justify-center items-center">
-                            <Button href="tel:(+49)08709568964" class="bg-[#800707] text-white px-12 py-1 text-lg rounded-full hover:bg-[#120E0B]  transition-all duration-500 ease-in-out font-light">
+                            <Button href="tel:(+49)087095698648" class="bg-[#800707] text-white px-12 py-1 text-lg rounded-full hover:bg-[#120E0B]  transition-all duration-500 ease-in-out font-light">
                                 Direkt anrufen
                             </Button>
                             <a href="https://www.lieferando.de/speisekarte/restaurant-mughal?&adj_tracker=tn818ro&adj_campaign=17679818623&k1111=k1111&campaignname=CM_S_G_DEU_DE_%5BRES%5D_%5BENGM%5D_OD_Eching_9048295" class="text-white text-sm transition-all duration-300 ease-in-out hover:opacity-100 opacity-80">
@@ -197,6 +197,14 @@
             <Button href="https://direct-book.com/properties/mughalhotel-restaurant?locale=de&items%5B0%5D%5Badults%5D=2&items%5B0%5D%5Bchildren%5D=0&items%5B0%5D%5Binfants%5D=0&currency=EUR&checkInDate=2024-07-17&checkOutDate=2024-07-18&trackPage=no&selected=0" class="bg-[#800707] text-white px-12 py-1 text-lg rounded-full hover:bg-[#120E0B]  transition-all duration-500 ease-in-out font-light">
                 Jetzt buchen
             </Button>
+            <div class="flex flex-row gap-6 justify-center items-center py-2">
+                <a href="https://www.instagram.com/mughal.hotelrestaurant/" class="w-8 h-8 hover:w-10 hover:h-10 flex transition-all duration-300 ease-in-out " >
+                    <img src="/ig_white.webp" alt="ig" >
+                </a>
+                <a href="https://www.facebook.com/people/Hotel-Restaurant-Mughal/61569387713603/" class="w-8 h-8 hover:w-10 hover:h-10 flex transition-all duration-300 ease-in-out " >
+                    <img src="/fb_white.webp" alt="fb">
+                </a>
+            </div>
         </div>
     </div>
 </div>
