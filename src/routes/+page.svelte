@@ -27,10 +27,10 @@
 
         <div class="w-full h-full justify-end items-center text-white min-h-[90vh] flex flex-col z-40 pb-40">
             <h1 class="text-white opacity-100 flex z-20 text-3xl md:text-5xl lg:text-7xl font-ny-medium py-2">
-                Mughal Hotel Restaurant
+                Taverna Hotel Restaurant
             </h1>
             <p class="text-white z-20 tracking-wider font-extralight text-sm md:text-md">
-                Indische Spezialitäten
+                Indische und italienische Spezialitäten
             </p>
         </div>
     </div>    
@@ -54,7 +54,7 @@
         </div>
 
         <div class="w-full justify-center items-center flex md:flex-row flex-col gap-4 md:gap-0 min-h-[25vh]">
-            <Button href="/MughalMenu.pdf" class="bg-[#800707] text-white px-12 py-1 text-lg rounded-full hover:bg-[#120E0B]  transition-all duration-500 ease-in-out font-light">
+            <Button href="/TavernaMenu.pdf" class="bg-[#800707] text-white px-12 py-1 text-lg rounded-full hover:bg-[#120E0B]  transition-all duration-500 ease-in-out font-light">
                 Speisekarte ansehen
             </Button>
         </div>
@@ -163,7 +163,7 @@
                         </div>
     
                         <div class="py-4 md:py-0 flex flex-col gap-4 justify-center items-center">
-                            <Button href="tel:(+49)087095698648" class="bg-[#800707] text-white px-12 py-1 text-lg rounded-full hover:bg-[#120E0B]  transition-all duration-500 ease-in-out font-light">
+                            <Button href="tel:(+49)87095689648" class="bg-[#800707] text-white px-12 py-1 text-lg rounded-full hover:bg-[#120E0B]  transition-all duration-500 ease-in-out font-light">
                                 Direkt anrufen
                             </Button>
                             <a href="https://www.lieferando.de/speisekarte/restaurant-mughal?&adj_tracker=tn818ro&adj_campaign=17679818623&k1111=k1111&campaignname=CM_S_G_DEU_DE_%5BRES%5D_%5BENGM%5D_OD_Eching_9048295" class="text-white text-sm transition-all duration-300 ease-in-out hover:opacity-100 opacity-80">
